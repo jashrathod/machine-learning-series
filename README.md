@@ -2,7 +2,7 @@
 
 This repository contains simple tutorials for different algorithms in Machine Learning. I'll be adding more notebooks with time.
 
-## List of tutorials:
+## List of tutorials
 
 1. Linear and Polynomial Regression [[Blog]](https://jashrathod.github.io/2021-06-03-diving-deep-into-linear-regression-and-polynomial-regression/) [[Python Notebook]](https://github.com/jashrathod/machine-learning-series/blob/master/Linear%20and%20Polynomial%20Regression/Linear%20and%20Polynomial%20Regression.ipynb)
 
